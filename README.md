@@ -11,10 +11,10 @@
 - ⚡ Fun fact **I am Fun**
 
 - 🌱 I love to code, build things & solve problems.
-- 
+ 
 - ⚡ I like to watch web series & movies, I also follow cricket.
 
--🔭 I’m currently working on [My Portfolio].
+ -🔭 I’m currently working on [My Portfolio].
 
 - 💬 Ask me about **Html, Css, Javascript, React**
 
