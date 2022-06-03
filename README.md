@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaik Shakeer</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/srikanta30/srikanta30/main/assets/wave.gif" > I'm Shaik Shakeer</h1>
 <h3 align="center">A passionate frontend developer from India. An aspiring full stack developer with a specialization in 💻 MERN stack. Keenly interested in problem-solving and making user-centric products, self-motivated and curious. Looking forward to honing my skills in a challenging work environment.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakeer7396&label=Profile%20views&color=0e75b6&style=flat" alt="shakeer7396" /> </p>
