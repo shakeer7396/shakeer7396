@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaik-shakeer-aa8965236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-shakeer-aa8965236/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaik-shakeer-aa8965236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-shakeer-aa8965236/" height="30" width="40" /></a>
  
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=02d2152a-e93c-46dc-aa9c-6eafee88515e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=02d2152a-e93c-46dc-aa9c-6eafee88515e" height="30" width="40" /></a>
  
