@@ -26,7 +26,7 @@
  
 <a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=02d2152a-e93c-46dc-aa9c-6eafee88515e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=02d2152a-e93c-46dc-aa9c-6eafee88515e" height="30" width="40" /></a>
  
-<a href="https://medium.com/https://medium.com/@shakeer043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shakeer043" height="30" width="40" /></a>
+<a href="https://medium.com/@shakeer043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shakeer043" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
