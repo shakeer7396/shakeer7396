@@ -14,7 +14,7 @@
  
 - ⚡ I like to explore new places & Focusing in Fitness.
 
- -🔭 I’m currently working on [My Portfolio].
+- 🔭 I’m currently working on [My Portfolio].
 
 - 💬 Ask me about **Html, Css, Javascript, React**
   
