@@ -12,7 +12,7 @@
 
 - 🌱 I love to code, build things & solve problems.
  
-- ⚡ I like to explore new places & Focusing in Fitness.
+- ⚡ I like to explore new places & Focusing on Fitness.
 
 - 🔭 I’m currently working on [My Portfolio].
 
